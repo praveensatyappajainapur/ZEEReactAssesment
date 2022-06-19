@@ -1,4 +1,5 @@
 {
+  "homepage": "http://praveensatyappajainapur.github.io/ZEEReactAssesment",
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
@@ -16,9 +17,12 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "gh-pages": "^4.0.0",
     "typescript": "4.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
