@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZEEReactAssesment/static/css/main.f29ae65a.chunk.css",
+    "main.js": "/ZEEReactAssesment/static/js/main.0a235e8c.chunk.js",
+    "main.js.map": "/ZEEReactAssesment/static/js/main.0a235e8c.chunk.js.map",
+    "runtime-main.js": "/ZEEReactAssesment/static/js/runtime-main.cde96c70.js",
+    "runtime-main.js.map": "/ZEEReactAssesment/static/js/runtime-main.cde96c70.js.map",
+    "static/css/2.cbedb215.chunk.css": "/ZEEReactAssesment/static/css/2.cbedb215.chunk.css",
+    "static/js/2.a68a7607.chunk.js": "/ZEEReactAssesment/static/js/2.a68a7607.chunk.js",
+    "static/js/2.a68a7607.chunk.js.map": "/ZEEReactAssesment/static/js/2.a68a7607.chunk.js.map",
+    "static/js/3.90e20698.chunk.js": "/ZEEReactAssesment/static/js/3.90e20698.chunk.js",
+    "static/js/3.90e20698.chunk.js.map": "/ZEEReactAssesment/static/js/3.90e20698.chunk.js.map",
+    "index.html": "/ZEEReactAssesment/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/ZEEReactAssesment/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "/ZEEReactAssesment/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a68a7607.chunk.js.LICENSE.txt": "/ZEEReactAssesment/static/js/2.a68a7607.chunk.js.LICENSE.txt",
+    "static/js/3.90e20698.chunk.js.LICENSE.txt": "/ZEEReactAssesment/static/js/3.90e20698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cde96c70.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.a68a7607.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0a235e8c.chunk.js"
+  ]
+}
